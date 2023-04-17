@@ -9,6 +9,7 @@ let snakearr = [
     { x: 13, y: 15 }
 ]
 food = { x: 3, y: 5 };
+// food box size
 
 
 
